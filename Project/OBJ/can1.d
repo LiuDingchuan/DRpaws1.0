@@ -1,0 +1,13 @@
+..\obj\can1.o: ..\..\user\SRC\can1.c
+..\obj\can1.o: ..\..\user\INC\can1.h
+..\obj\can1.o: E:\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\can1.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\obj\can1.o: ..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\obj\can1.o: E:\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\can1.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\obj\can1.o: ..\..\user\INC\stm32f10x_conf.h
+..\obj\can1.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\obj\can1.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\obj\can1.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\obj\can1.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\obj\can1.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
